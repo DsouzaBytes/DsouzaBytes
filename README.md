@@ -8,6 +8,6 @@
 - Feel free to connect with me! 📫 Let's share ideas and create something awesome together.
 
 <!---
-DsouzaBytes/DsouzaBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ryandsza/ryandsza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
