@@ -1,4 +1,4 @@
-- 👋 Hey there! I'm @DsouzaBytes, and I'm on a journey of endless curiosity.
+- 👋 Hey there! I'm @ryandsza, and I'm on a journey of endless curiosity.
 
 - Here's a sneak peek into my world:
 - 👾 Exploring the gaming universe
